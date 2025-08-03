@@ -12,52 +12,69 @@ This is a mini project built using **React + Vite**, where we create a **reusabl
 - Fully functional using React Hooks
 
 ## 📂 Folder Structure
+```
+  📦 Project Root
 ├── public/
-│ └── vite.svg
+│   └── vite.svg
 ├── src/
-│ ├── assets/
-│ ├── components/
-│ │ ├── Card.jsx
-│ │ └── Card.css
-│ ├── App.jsx
-│ ├── App.css
-│ ├── main.jsx
-│ └── index.css
+│   ├── assets/
+│   │   └── react.svg
+│   ├── components/
+│   │   ├── Card.jsx
+│   │   └── Card.css
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
 ├── .gitignore
 ├── package.json
 ├── vite.config.js
-└── README.md
-
+├── README.md
+```
 
 ## 🚀 How to Run the Project
 
 1. **Clone the repo**  
-    ```bash
-   git clone https://github.com/yourusername/react-card-component.git
+```
+git clone https://github.com/yourusername/react-card-component.git
+```
 
-2. Install dependencies
-  ```bash
+2. **Install dependencies**
+  ```
    npm install
+  ```
 
-3. Start the dev server
-  ```bash
+3. **Start the dev server**
+  ```
   npm run dev
+  ```
 
-4. Open your browser at http://localhost:5173
+4. **Open your browser at** 
+```
+http://localhost:5173
+```
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
+```
 ✔️React
 ✔️Vite
 ✔️CSS
 ✔️JavaScript (ES6+)
+```
 
-🧠 Learning Objectives
+🧠 **Learning Objectives**
+```
 ☑️Using React props to pass dynamic data
 ☑️Managing component state with useState
 ☑️Conditional rendering in JSX
 ☑️Reusability in component design
+```
 
-📸 Demo Screenshot
+📸 **Demo Screenshot**
 ![Demo](image.png)
-🧑‍💻 Author
+
+
+🧑‍💻 **Author**
+```
 Aditya Saxena
+```
